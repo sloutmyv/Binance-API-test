@@ -1,5 +1,7 @@
 # Binance-API-test
 
+doc : [Binance-python](https://python-binance.readthedocs.io/en/latest/overview.html)
+
 ## Langage de programation
 Installer le langage [Python](https://www.python.org/downloads/)
 ## Editeur de texte
