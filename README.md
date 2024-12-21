@@ -56,3 +56,8 @@ Installer les dépendances présentes dans un fichier “requirement.txt” :
 pip install -r requirement.txt
 ```
 ## Objectif(s)
+
+* Trace market deph 
+* Get wallet status 
+* Transfer
+* Place / delete / record order in spot 
