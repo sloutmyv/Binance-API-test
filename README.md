@@ -61,3 +61,6 @@ pip install -r requirement.txt
 * Get wallet status 
 * Transfer
 * Place / delete / record order in spot 
+* Place / delete / record order in marge 
+* Verifier la balance des comptes avant/après un ordre et mesurer les fees. 
+* Etablir un evolutif du portfeuille
