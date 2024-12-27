@@ -58,9 +58,10 @@ pip install -r requirement.txt
 ## Objectif(s)
 
 + Analyse du marché crypto 
-> market cap
+> market cap / market cap evo 
 > market deph 
 > graph volume de transaction / capitalisation / volatilé pour les x plus grosse cap. 
+> graph evolution relative des 10 plus grosse capitalisaiton
 * Analyse de la composition du portefeuille binance 
 * Comment placer un ordre 
 > en spot 
