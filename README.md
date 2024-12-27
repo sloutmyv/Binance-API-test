@@ -57,10 +57,14 @@ pip install -r requirement.txt
 ```
 ## Objectif(s)
 
-* Trace market deph 
-* Get wallet status 
-* Transfer
-* Place / delete / record order in spot 
-* Place / delete / record order in marge 
-* Verifier la balance des comptes avant/après un ordre et mesurer les fees. 
-* Etablir un evolutif du portfeuille
++ Analyse du marché crypto 
+> market cap
+> market deph 
+> graph volume de transaction / capitalisation / volatilé pour les x plus grosse cap. 
+* Analyse de la composition du portefeuille binance 
+* Comment placer un ordre 
+> en spot 
+> en marge  
+* Faire des transfert entre portefeuille spot / marge / earn 
+* Tracer un évolutif de la composition du portefeuille 
+
